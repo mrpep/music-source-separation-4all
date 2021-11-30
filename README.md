@@ -8,6 +8,8 @@
 * [OpenUnmix](https://sigsep.github.io/open-unmix/)
 * [MetaTasnet](https://github.com/pfnet-research/meta-tasnet)
 * [Spleeter](https://research.deezer.com/projects/spleeter.html)
+* [SoundFilter](https://google-research.github.io/seanet/soundfilter/examples/)
+* [Deep Audio Prior](https://github.com/adobe/Deep-Audio-Prior)
 
 ### Datasets
 * [MUSDB18](https://sigsep.github.io/datasets/musdb.html)
